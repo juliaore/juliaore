@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**juliaore/juliaore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Julia 🌷
 
-Here are some ideas to get you started:
+I'm so glad you are here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱  About Me 
+I'm a Visual Design and Programming student from Argentina, focusing on interactive experiences through UX design and Web Development. 
+
+
+##  📚 Education
+
+- Visual Design (UCALP)
+- Programming (UTN)
+- Web Development (University of Michigan)
+- UX Research and Design (Google)
+## 🔗 Links
+
+- 💼 LinkedIn: [linkedin.com/in/juliaore](https://www.linkedin.com/in/juliaore)
+- 🎨 Portfolio: [behance.net/juliaorellano](https://www.behance.net/juliaorellano)
+
+Feel free to check out my design and development projects! 🌷

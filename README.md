@@ -4,13 +4,12 @@
 I'm so glad you are here!
 
 ## 🌱  About Me 
-I'm a Visual Design and Programming student from Argentina, focusing on interactive experiences through UX design and Web Development. 
+I'm a Visual Design student from Argentina, focusing on interactive experiences through UX design and Web Development. I also love Branding and Editorial!
 
 
 ##  📚 Education
 
 - Visual Design (UCALP)
-- Programming (UTN)
 - Web Development (University of Michigan)
 - UX Research and Design (Google)
 ## 🔗 Links

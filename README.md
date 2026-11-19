@@ -12,6 +12,8 @@ I'm a Visual Design student from Argentina, focusing on interactive experiences 
 - Visual Design (UCALP)
 - Web Development (University of Michigan)
 - UX Research and Design (Google)
+- Open Science 101 (NASA)
+  
 ## 🔗 Links
 
 - 💼 LinkedIn: [linkedin.com/in/juliaore](https://www.linkedin.com/in/juliaore)
